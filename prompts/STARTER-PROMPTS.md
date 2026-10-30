@@ -69,3 +69,5 @@ Show me a recording or screenshots of the result.
 - "Use bug-bounty-business: compare these 3 programs and tell me which one to hunt first, and why."
 - "/bounty-hunt on [program] — scope first, then recon, then one deep surface."
 - "/bounty-report — turn this validated finding into a HackerOne report: [paste finding + evidence]."
+- "/scope-watch — build today's fresh list for my home programs."
+- "/new-scope-rush on [new asset/feature] of [program]."

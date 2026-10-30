@@ -24,3 +24,4 @@ Seven hands-on labs. All targets are **intentionally vulnerable apps running on 
 8. **lab-08-first-bounty-program.md** — pick a program, read scope like a lawyer, set up test accounts + tracker.
 9. **lab-09-report-writing.md** — turn an old lab finding into a paid-format report with `/bounty-report`.
 10. **lab-10-first-90-days.md** — the weekly routine and milestones that lead to a first payout.
+11. **lab-11-watch-system.md** — set up the first-mover watch: baselines, fresh list, daily routine.
